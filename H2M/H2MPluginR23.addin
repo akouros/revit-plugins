@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>H2MPluginR2023</Name>
+		<FullClassName>H2M.H2MPluginR23</FullClassName>
+		<Text>H2M Plugins Revit 2023</Text>
+		<Description>Tools including view numbering and sheet count automation</Description>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+		<Assembly>H2MPluginR23.dll</Assembly>
+		<AddInId>
+			80105A12-66D6-4D30-A8A2-27593A98E4BC
+		</AddInId>
+		<VendorId>H2M</VendorId>
+		<VendorDescription>H2M, www.h2m.com</VendorDescription>
+	</AddIn>
+
+	<!-- Command Add-in for ViewNumberingCommand -->
+	<AddIn Type="Command">
+		<Name>View Numbering Command</Name>
+		<FullClassName>H2M.ViewNumberingCommand</FullClassName>
+		<Text>View Numbering</Text>
+		<Description>Renumber views on sheets</Description>
+		<Assembly>H2MPluginR23.dll</Assembly>
+		<AddInId>
+			3E214B35-0B98-4C41-9D28-8BC580D4D089
+		</AddInId>
+		<VendorId>H2M</VendorId>
+		<VendorDescription>H2M, www.h2m.com</VendorDescription>
+	</AddIn>
+
+	<!-- Command Add-in for SheetCountCommand -->
+	<AddIn Type="Command">
+		<Name>Sheet Count Command</Name>
+		<FullClassName>H2M.SheetCountCommand</FullClassName>
+		<Text>Sheet Count</Text>
+		<Description>Count and update sheets from Excel</Description>
+		<Assembly>H2MPluginR23.dll</Assembly>
+		<AddInId>
+			ED051673-AC78-4F80-A354-D55157379910
+		</AddInId>
+		<VendorId>H2M</VendorId>
+		<VendorDescription>H2M, www.h2m.com</VendorDescription>
+	</AddIn>
+	
+</RevitAddIns>

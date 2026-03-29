@@ -1,0 +1,117 @@
+C:\Users\akouromenos\Revit Plugins\Design Criteria\bin\Debug\DesignCriteria.dll
+C:\Users\akouromenos\Revit Plugins\Design Criteria\bin\Debug\DesignCriteria.pdb
+C:\Users\akouromenos\Revit Plugins\Design Criteria\obj\Debug\H2MStructural.csproj.AssemblyReference.cache
+C:\Users\akouromenos\Revit Plugins\Design Criteria\obj\Debug\H2MStructural.csproj.CoreCompileInputs.cache
+C:\Users\akouromenos\Revit Plugins\Design Criteria\obj\Debug\DesignCriteria.dll
+C:\Users\akouromenos\Revit Plugins\Design Criteria\obj\Debug\DesignCriteria.pdb
+C:\Users\akouromenos\Revit Plugins\Design Criteria\bin\Debug\H2MStructuralPlugin.addin
+C:\Users\akouromenos\Revit Plugins\Design Criteria\bin\Debug\HtmlAgilityPack.dll
+C:\Users\akouromenos\Revit Plugins\Design Criteria\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\akouromenos\Revit Plugins\Design Criteria\bin\Debug\HtmlAgilityPack.xml
+C:\Users\akouromenos\Revit Plugins\Design Criteria\obj\Debug\H2MStruc.6BE05BE6.Up2Date
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\HtmlAgilityPack.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\HtmlAgilityPack.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\obj\Debug\H2MStructural.csproj.AssemblyReference.cache
+C:\Users\akouromenos\Revit Plugins\H2MStructural\obj\Debug\H2MStructural.csproj.CoreCompileInputs.cache
+C:\Users\akouromenos\Revit Plugins\H2MStructural\obj\Debug\H2MStruc.6BE05BE6.Up2Date
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Buffers.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Memory.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Text.Json.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.ValueTuple.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\WebDriver.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Buffers.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Memory.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Text.Json.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.ValueTuple.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\WebDriver.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\GeoJSON.Net.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\H2MTools.dll.config
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\H2MTools.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\H2MTools.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\obj\Debug\H2MTools.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\obj\Debug\H2MTools.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\itextsharp.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.IO.Pipelines.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\itextsharp.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.IO.Pipelines.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Google.Protobuf.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Core.Api.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Core.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Net.Client.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Net.Common.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Ninject.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Drawing.Common.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Security.AccessControl.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Security.Permissions.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Google.Protobuf.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Google.Protobuf.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Core.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Core.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Core.Api.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Net.Client.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Net.Client.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Net.Common.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Grpc.Net.Common.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Ninject.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Drawing.Common.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Security.AccessControl.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Security.Permissions.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\System.Drawing.Common.pdb
+C:\Users\akouromenos\Revit Plugins\H2MStructural\bin\Debug\H2MTools.addin
