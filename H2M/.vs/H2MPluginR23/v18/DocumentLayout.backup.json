@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F5AF2-39D9-47DA-9221-2D01AFCC81BB}|H2M.csproj|c:\\users\\alexi\\source\\repos\\akouros\\revit-plugins\\h2m\\sheetcountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F5AF2-39D9-47DA-9221-2D01AFCC81BB}|H2M.csproj|solutionrelative:sheetcountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F5AF2-39D9-47DA-9221-2D01AFCC81BB}|H2M.csproj|C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\h2mpluginr23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4F5AF2-39D9-47DA-9221-2D01AFCC81BB}|H2M.csproj|solutionrelative:h2mpluginr23.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4F5AF2-39D9-47DA-9221-2D01AFCC81BB}|H2M.csproj|C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\h2mpluginr23.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AF4F5AF2-39D9-47DA-9221-2D01AFCC81BB}|H2M.csproj|solutionrelative:h2mpluginr23.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SheetCountCommand.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\SheetCountCommand.cs",
+              "RelativeDocumentMoniker": "SheetCountCommand.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\SheetCountCommand.cs",
+              "RelativeToolTip": "SheetCountCommand.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAkwCABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:48:32.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "H2MPluginR23.cs",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\H2MPluginR23.cs",
+              "RelativeDocumentMoniker": "H2MPluginR23.cs",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\H2MPluginR23.cs",
+              "RelativeToolTip": "H2MPluginR23.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwB8AAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:48:32.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "H2MPluginR23.addin",
+              "DocumentMoniker": "C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\H2MPluginR23.addin",
+              "RelativeDocumentMoniker": "H2MPluginR23.addin",
+              "ToolTip": "C:\\Users\\alexi\\source\\repos\\akouros\\revit-plugins\\H2M\\H2MPluginR23.addin",
+              "RelativeToolTip": "H2MPluginR23.addin",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvyoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2026-03-31T00:48:32.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

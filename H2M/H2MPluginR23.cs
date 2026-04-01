@@ -37,6 +37,15 @@ namespace H2M
             BitmapImage SheetCountBitmapImage = LoadEmbeddedImage("H2M.icons.SheetCountIcon.png");
             SheetCountPushButton.LargeImage = SheetCountBitmapImage;
 
+            //Spell Check Button
+            PushButtonData SpellCheckButtonData = new PushButtonData("cmdSpellCheck", "Spell\r\nCheck", thisAssemblyPath, "H2M.SpellCheckCommand");
+            PushButton SpellCheckPushButton = ribbonPanel.AddItem(SpellCheckButtonData) as PushButton;
+            SpellCheckPushButton.ToolTip = "Spell check all text on every sheet in the current project";
+
+            // Load spell check embedded image
+            BitmapImage SpellCheckBitmapImage = LoadEmbeddedImage("H2M.icons.SpellCheckIcon.png");
+            SpellCheckPushButton.LargeImage = SpellCheckBitmapImage;
+
             return Result.Succeeded;
         }
         //Load jpg icon method for each button

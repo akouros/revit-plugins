@@ -149,3 +149,16 @@ C:\Users\akouromenos\OneDrive - H2M architect + engineers\Desktop\Revit Plugins\
 C:\Users\akouromenos\OneDrive - H2M architect + engineers\Desktop\Revit Plugins\H2M\obj\Debug\H2M.csproj.Up2Date
 C:\Users\akouromenos\OneDrive - H2M architect + engineers\Desktop\Revit Plugins\H2M\obj\Debug\H2MPluginR23.dll
 C:\Users\akouromenos\OneDrive - H2M architect + engineers\Desktop\Revit Plugins\H2M\obj\Debug\H2MPluginR23.pdb
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\H2M.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\H2M.csproj.ResolveComReference.cache
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\SpellCheck\UI\ProgressDialog.baml
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\SpellCheck\UI\ResultsDialog.baml
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\SpellCheck\UI\SummaryDialog.baml
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\SpellCheck\UI\ProgressDialog.g.cs
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\SpellCheck\UI\ResultsDialog.g.cs
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\SpellCheck\UI\SummaryDialog.g.cs
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\H2MPluginR23_MarkupCompile.cache
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\H2MPluginR23.g.resources
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\H2M.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\H2MPluginR23.dll
+C:\Users\alexi\source\repos\akouros\revit-plugins\H2M\obj\Debug\H2MPluginR23.pdb

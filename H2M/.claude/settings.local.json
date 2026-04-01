@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl -L -o \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M/SpellCheck/en_US.aff\" \"https://raw.githubusercontent.com/LibreOffice/dictionaries/master/en/en_US.aff\")",
+      "Bash(curl -L -o \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M/SpellCheck/en_US.dic\" \"https://raw.githubusercontent.com/LibreOffice/dictionaries/master/en/en_US.dic\")"
+    ]
+  }
+}

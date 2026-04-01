@@ -1,0 +1,86 @@
+<Window x:Class="H2M.SummaryDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Spell Check — Summary"
+        Height="270" Width="360"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner"
+        ShowInTaskbar="False">
+
+    <Grid Margin="28,20,28,20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>   <!-- heading -->
+            <RowDefinition Height="16"/>
+            <RowDefinition Height="Auto"/>   <!-- stats grid -->
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>   <!-- close button -->
+        </Grid.RowDefinitions>
+
+        <!-- Heading -->
+        <TextBlock Grid.Row="0"
+                   Text="Spell Check Complete"
+                   FontSize="15" FontWeight="Bold"/>
+
+        <!-- Statistics grid -->
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="6"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="6"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="6"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="6"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <!-- Row 0: Sheets scanned -->
+            <TextBlock Grid.Row="0" Grid.Column="0"
+                       Text="Sheets scanned:" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="0" Grid.Column="1"
+                       x:Name="SheetsScannedText"
+                       FontWeight="Bold" HorizontalAlignment="Right"/>
+
+            <!-- Row 2: Issues found -->
+            <TextBlock Grid.Row="2" Grid.Column="0"
+                       Text="Issues found:" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="2" Grid.Column="1"
+                       x:Name="IssuesFoundText"
+                       FontWeight="Bold" HorizontalAlignment="Right"/>
+
+            <!-- Row 4: Issues fixed -->
+            <TextBlock Grid.Row="4" Grid.Column="0"
+                       Text="Issues fixed:" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="4" Grid.Column="1"
+                       x:Name="IssuesFixedText"
+                       FontWeight="Bold" HorizontalAlignment="Right"/>
+
+            <!-- Row 6: Issues skipped -->
+            <TextBlock Grid.Row="6" Grid.Column="0"
+                       Text="Issues skipped:" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="6" Grid.Column="1"
+                       x:Name="IssuesSkippedText"
+                       FontWeight="Bold" HorizontalAlignment="Right"/>
+
+            <!-- Row 8: Words added to firm dictionary -->
+            <TextBlock Grid.Row="8" Grid.Column="0"
+                       Text="Words added to firm dictionary:" VerticalAlignment="Center"/>
+            <TextBlock Grid.Row="8" Grid.Column="1"
+                       x:Name="WordsAddedText"
+                       FontWeight="Bold" HorizontalAlignment="Right"/>
+        </Grid>
+
+        <!-- Close button -->
+        <Button Grid.Row="4"
+                Content="Close"
+                Width="80"
+                HorizontalAlignment="Center"
+                IsDefault="True"
+                Click="CloseButton_Click"/>
+    </Grid>
+</Window>
