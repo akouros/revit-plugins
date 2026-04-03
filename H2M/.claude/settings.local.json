@@ -3,7 +3,12 @@
     "allow": [
       "WebFetch(domain:raw.githubusercontent.com)",
       "Bash(curl -L -o \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M/SpellCheck/en_US.aff\" \"https://raw.githubusercontent.com/LibreOffice/dictionaries/master/en/en_US.aff\")",
-      "Bash(curl -L -o \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M/SpellCheck/en_US.dic\" \"https://raw.githubusercontent.com/LibreOffice/dictionaries/master/en/en_US.dic\")"
+      "Bash(curl -L -o \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M/SpellCheck/en_US.dic\" \"https://raw.githubusercontent.com/LibreOffice/dictionaries/master/en/en_US.dic\")",
+      "Bash(msbuild H2MPluginR23.sln /p:Configuration=Debug /nologo /v:minimal)",
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/MSBuild.exe\" \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M/H2MPluginR23.sln\" /p:Configuration=Debug /nologo /v:minimal)",
+      "Bash(\"/c/Program Files/Microsoft Visual Studio/18/Community/MSBuild/Current/Bin/MSBuild.exe\" \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M/H2MPluginR23.sln\" /p:Configuration=Debug /nologo /v:minimal)",
+      "Bash(powershell.exe -Command \"& ''C:\\\\Program Files\\\\Microsoft Visual Studio\\\\18\\\\Community\\\\MSBuild\\\\Current\\\\Bin\\\\MSBuild.exe'' ''C:\\\\Users\\\\alexi\\\\source\\\\repos\\\\akouros\\\\revit-plugins\\\\H2M\\\\H2MPluginR23.sln'' /p:Configuration=Debug /nologo /v:minimal 2>&1\")",
+      "Bash(git -C \"C:/Users/alexi/source/repos/akouros/revit-plugins/H2M\" diff --name-only)"
     ]
   }
 }

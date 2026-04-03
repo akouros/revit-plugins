@@ -14,6 +14,8 @@ namespace H2M
     {
         public Result Execute(ExternalCommandData commandData, ref string message, ElementSet elements)
         {
+            var telemetry = new TelemetryService();
+            telemetry.TrackEvent("ViewNumbering", "button_click");
             UIApplication uiapp = commandData.Application;
             UIDocument uidoc = uiapp.ActiveUIDocument;
             Document doc = uidoc.Document;
@@ -90,6 +92,11 @@ namespace H2M
             TaskDialog.Show("Detail Renumbering Complete",
                 $"Processed {totalSheets} sheets.\nRenumbered {totalViewsRenumbered} views in total.");
 
+            telemetry.TrackEvent("ViewNumbering", "task_completed", new Dictionary<string, object>
+            {
+                ["sheets_processed"]  = totalSheets,
+                ["views_renumbered"]  = totalViewsRenumbered
+            });
             return Result.Succeeded;
         }
 

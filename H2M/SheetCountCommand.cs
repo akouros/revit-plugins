@@ -21,6 +21,9 @@ namespace H2M
             ref string message,
             ElementSet elements)
         {
+            var telemetry = new TelemetryService();
+            telemetry.TrackEvent("SheetCount", "button_click");
+            List<ViewSheet> skippedSheets = null;
             var uiApp = commandData.Application;
             var doc = uiApp.ActiveUIDocument.Document;
 
@@ -146,7 +149,7 @@ namespace H2M
                 }
 
                 // Clear sheet count parameters for sheets not in Excel (skipped sheets)
-                var skippedSheets = collector.Where(sheet =>
+                skippedSheets = collector.Where(sheet =>
                     !string.IsNullOrEmpty(sheet.SheetNumber) &&
                     !excelSheetList.Any(excelSheet =>
                         string.Equals(sheet.SheetNumber.Trim(), excelSheet.Trim(), StringComparison.OrdinalIgnoreCase)))
@@ -200,6 +203,12 @@ namespace H2M
 
             // Finally the existing completion message
             TaskDialog.Show("Done", $"Sheet numbering complete.\nTotal sheets counted in Excel: {excelSheetList.Count}.");
+            telemetry.TrackEvent("SheetCount", "task_completed", new Dictionary<string, object>
+            {
+                ["excel_sheets"]   = excelSheetList.Count,
+                ["revit_matched"]  = filteredCollector.Count,
+                ["revit_skipped"]  = skippedSheets.Count
+            });
             return Result.Succeeded;
         }
 
